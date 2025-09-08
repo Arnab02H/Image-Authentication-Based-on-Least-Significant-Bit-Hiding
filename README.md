@@ -1,4 +1,4 @@
-# 📸 Image Authentication using 2-Bit LSB Method
+# 📸 Image Authentication(Data Hiding) using 2-Bit LSB Method
 
 ## 📌 Project Overview
 This project presents an approach for **Image Authentication** based on the **2-Bit Method** using **Arnold’s Cat Map**. The primary objective is to embed a watermark in images securely, ensuring their authenticity and integrity, which is especially useful for medical images. 🏥🔒
